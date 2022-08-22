@@ -1,6 +1,7 @@
 ## Eae 😎, eu sou o Pedro Henrique 👋
 
 ##
+Tenho 20 Anos, amo aprender coisas novas e conversar com pessoas novas 😉
 - 🌱 Aprendendo Programação na Generation Brasil
 - 😄 Pronomes: Ele/Dele
 
