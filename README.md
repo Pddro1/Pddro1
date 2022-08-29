@@ -18,6 +18,7 @@ Tenho 20 Anos, amo aprender coisas novas e conversar com pessoas novas 😉
   <img align="center" alt="PedroGit" height="100" width="80" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="PedroGitHub" height="100" width="80" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="PedroGitHub" height="100" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PedroGitHub" height="100" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   </div>
   
 ##
