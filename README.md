@@ -14,12 +14,12 @@ Tenho 20 Anos, amo aprender coisas novas e conversar com pessoas novas 😉
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="PedroJava" height="100" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="PedroGit" height="100" width="80" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="PedroGitHub" height="100" width="80" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <img align="center" alt="PedroSql" height="100" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PedroSpring" height="100" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="PedroAngular" height="100" width="80" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="PedroJava" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="PedroGit" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="PedroGitHub" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" alt="PedroSql" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PedroSpring" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="PedroAngular" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   </div>
   
 ##
