@@ -34,6 +34,8 @@ Tenho 20 Anos, amo aprender coisas novas e conversar com pessoas novas 😉
 
 ##
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pddro1&theme=monokai&no-bg=true&no-frame=true&row=2&column=3" alt="Pddro1" /></a>
+
 <div> 
 <a href="https://www.instagram.com/pdro_camargo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href = "mailto:pedrohcamargon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
