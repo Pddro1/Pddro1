@@ -40,7 +40,7 @@ Tenho 20 Anos, amo aprender coisas novas e conversar com pessoas novas 😉
 
 ##
 
-<h2>🏆 Trophys:</h2>
+<h2>🏆 Trophies:</h2>
 <p align=center>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pddro1&theme=onedark&no-bg=true&margin-w=15&margin-h=15&row=2&column=3" alt="Pddro1" /></a>
 </p>
