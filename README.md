@@ -1,6 +1,12 @@
 ## Eae 😎, eu sou o Pedro Henrique 👋
 
+<br>
+<div align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=35&duration=2000&pause=500&color=2CF713&width=435&lines=%3COl%C3%A1%2C+Mundo!%2F%3E;%3CHello%2C+World!%2F%3E;%3CNamaste%2C+World!%2F%3E;%3CBonjour%2C+World!%2F%3E;%3CCiao%2C+World!%2F%3E;%3CHola%2C+World!%2F%3E;%3CNI+h%C7%8Eo%2C+World!%2F%3E" alt="Typing SVG" /></a>
+</div>
+
 ##
+
 Tenho 20 Anos, amo aprender coisas novas e conversar com pessoas novas 😉
 - 🌱 Aprendendo Programação na Generation Brasil
 - 😄 Pronomes: Ele/Dele
@@ -34,8 +40,9 @@ Tenho 20 Anos, amo aprender coisas novas e conversar com pessoas novas 😉
 
 ##
 
+<h2>🏆 Trophys:</h2>
 <p align=center>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pddro1&theme=onedark&no-bg=true&no-frame=true&row=2&column=3" alt="Pddro1" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pddro1&theme=onedark&no-bg=true&margin-w=15&margin-h=15&row=2&column=3" alt="Pddro1" /></a>
 </p>
 
 ##
