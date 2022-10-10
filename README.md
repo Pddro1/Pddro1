@@ -19,7 +19,7 @@ Tenho 20 Anos, amo aprender coisas novas e conversar com pessoas novas 😉
 
 ##
 
-<h2>Tecnologias:<h2>
+<h2>Technologiess:<h2>
 <div style="display: inline_block">
 <h6>Back-End:</h6>
   <img align="center" alt="PedroGit" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
