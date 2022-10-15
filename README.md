@@ -33,7 +33,7 @@ Tenho 20 Anos, amo aprender coisas novas e conversar com pessoas novas 😉
   <img align="center" alt="PedroTS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
 </div>
 
-##
+
 
 <h2>🏆 Trophies:</h2>
 <p align=center>
