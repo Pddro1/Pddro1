@@ -19,17 +19,12 @@ Tenho 20 Anos, amo aprender coisas novas e conversar com pessoas novas 😉
 
 ##
 
-<h2>Technologiess:<h2>
+<h2>Technologies:<h2>
 <div style="display: inline_block">
-<h6>Back-End:</h6>
   <img align="center" alt="PedroGit" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="PedroJava" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="PedroSql" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="PedroSpring" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-</div>
-
-<h3>Front-End:</h3>
-<div style="display: inline_block">
   <img align="center" alt="PedroAngular" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="PedroReactr" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />       
   <img align="center" alt="PedroHTML5" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
