@@ -8,7 +8,7 @@
 ##
 
 Tenho 20 Anos, amo aprender coisas novas e conversar com pessoas novas 😉
-- 🌱 Aprendendo Programação na Generation Brasil
+- 🌱 Formado como desenvolvedor Java pela Generation Brasil
 - 😄 Pronomes: Ele/Dele
 
 ##
